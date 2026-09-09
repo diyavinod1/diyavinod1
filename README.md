@@ -18,7 +18,7 @@
 ║   name        :  Diya Vinod                                      ║
 ║   role        :  AI Engineer in the Making                       ║
 ║   education   :  B.E. CSE (AI & ML) @ KIT · 2024–2028            ║
-║   cgpa        :  9.06 / 10.0  ⭐                                 ║
+║   cgpa        :  8.94 / 10.0  ⭐                                 ║
 ║   location    :  Coimbatore, India  🇮🇳                           ║
 ║   current xp  :  Building AI Apps & Real-World Projects          ║
 ║   mission     :  Turn ideas into products people actually use    ║
@@ -85,12 +85,12 @@ creating AI systems that feel effortless, useful, and human.
 
 > **Live →** [vaidyaai-frontend.onrender.com](https://vaidyaai-frontend.onrender.com/)
 
-A voice-first LLM-powered healthcare assistant for early symptom analysis and medical triage.
+A voice-first AI healthcare assistant for symptom analysis and medical triage.
 
-- 🌍 Supports **12 languages** via speech input
-- 🚨 AI-based severity detection + hospital suggestions + doctor-ready summaries
-- 🔁 LLM workflows for medical reasoning & structured response generation
-- 🛠 `React` `TailwindCSS` `FastAPI` `Python` `NLP` `Speech APIs`
+* 🌍 Supports **12+ languages** with speech-based input
+* 🚨 AI-driven severity detection, hospital suggestions & doctor-ready summaries
+* 🧠 LLM-powered reasoning and structured response generation
+* 🛠 `React` `FastAPI` `Python` `NLP` `Speech APIs`
 
 ---
 
@@ -98,41 +98,64 @@ A voice-first LLM-powered healthcare assistant for early symptom analysis and me
 
 > **Live →** [relaunchai.streamlit.app](https://relaunchai.streamlit.app/)
 
-AI platform helping women restart careers after breaks — with personalized, empathetic guidance.
+An AI-powered career restart platform designed to help women return to the workforce after career breaks.
 
-- 📊 Skill gap analysis · Resume generation · Interview coaching
-- 🗓 30-day roadmap + returnship discovery powered by AI
-- 🛠 `Python` `FastAPI` `Streamlit` `NLP` `AI APIs`
-
----
-
-### 🥗 NutriTrack — Full-Stack Nutrition Tracker
-
-Full MERN nutrition tracker with auth, food logging & goal-based recommendations.
-
-- 🛠 `React` `Node.js` `Express` `MongoDB`
+* 📊 Skill-gap analysis, resume generation & interview coaching
+* 🗓 Personalized **30-day career roadmaps** and returnship discovery
+* 🧠 LLM-based personalized career guidance
+* 🛠 `Python` `FastAPI` `Streamlit` `NLP` `AI APIs`
 
 ---
 
-### 🏠 RentWise — ML Rent Prediction System
+### 🌾 AgroBuddy — AI Farming Assistant
 
-Full-stack rent prediction with XGBoost model deployed via FastAPI + interactive visualizations.
+> **GitHub →** [Repository](https://github.com/diyavinod1/AgroBuddy)
 
-- 🛠 `React` `FastAPI` `Python` `XGBoost`
+An AI-powered agricultural assistant providing personalized crop diagnosis and farming guidance.
+
+* 🌱 Supports **image, voice & text** interactions in multiple Indian languages
+* 🔍 AI-powered crop disease and issue diagnosis using vision models
+* 🧠 LLM-based guidance with memory-enabled conversations
+* 🛠 `Python` `FastAPI` `OpenRouter LLMs` `Supabase` `OpenCV` `Telegram Bot API`
 
 ---
 
-### 🧩 Chrome Extensions Suite (Manifest V3)
+### 🥗 NutriTrack — Online Meal Planner & Nutrition Tracker
 
-<div align="center">
+> **GitHub →** [Repository](https://github.com/diyavinod1/Online-Meal-Planner-and-Nutrition-Tracker)
 
-| Extension | What it does |
-|-----------|--------------|
-| 🛡 **FocusGuard** | Blocks mindless scrolling on YouTube, Instagram & Reddit via intent-based prompts |
-| 🏆 **LeetCode Victory Engine** | Gamified motivational feedback — 200+ quotes + confetti on submissions |
-| 📝 **QuickNotes** | Per-website persistent notes with local storage + real-time char tracking |
+A full-stack nutrition platform for meal planning, food logging and personalized dietary recommendations.
 
-</div>
+* 🍽️ Food logging with goal-based meal recommendations
+* 📊 REST APIs with MongoDB-based nutrition analytics
+* 🔐 Full-stack authentication and user management
+* 🛠 `React` `Node.js` `Express` `MongoDB`
+
+---
+
+### 🏠 RentWise — ML-Based Rent Prediction System
+
+> **GitHub →** [Repository](https://github.com/diyavinod1/RentWise---AI-Rent-Fairness-Analyzer)
+
+A full-stack machine learning application for predicting house rental prices.
+
+* 🤖 XGBoost regression model for rent prediction
+* 📈 Interactive frontend for prediction and visualization
+* ⚡ ML model deployed through a FastAPI backend
+* 🛠 `React` `FastAPI` `Python` `XGBoost`
+
+---
+
+### 🎯 JobFit AI — AI Resume Analyzer
+
+> **Chrome Web Store →** [Extension](https://chromewebstore.google.com/detail/dkodefdamagkhfpdgacgiajbiomncjfl?utm_source=item-share-cb)
+
+An AI-powered Chrome extension that analyzes resumes against job descriptions to improve job application success.
+
+* 📊 Generates **ATS match scores** and identifies missing skills
+* 🧠 Compares resumes with job requirements using AI
+* ✍️ Generates recruiter-ready pitch messages
+* 🛠 `JavaScript` `Chrome Extensions` `Manifest V3` `AI APIs`
 
 ---
 
@@ -181,9 +204,9 @@ Full-stack rent prediction with XGBoost model deployed via FastAPI + interactive
 ┌──────────────────────────────────────────────────────────────────┐
 │  ⚔️  COMPETITIVE PROGRAMMING                                     │
 │  ──────────────────────────────────────────────────────────────  │
-│  📊  1300+ DSA Problems — LeetCode + CodeChef + Codolio          │
-│  🍴  CodeChef: 2★ · Division 3 · Peak Rating 1542                │
-│  ⚡  LeetCode: Rating 1753 · Weekly Contest Regular               │
+│  📊  1720+ DSA Problems — LeetCode + CodeChef + Codolio          │
+│  🍴  CodeChef: 3★ · Division 2 · Peak Rating 1678                │
+│  ⚡  LeetCode: Rating 1901 · Weekly Contest Regular               │
 │                                                                  │
 │  🎖️  CERTIFICATIONS                                              │
 │  ──────────────────────────────────────────────────────────────  │
