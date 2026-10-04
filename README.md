@@ -110,7 +110,7 @@ A multimodal AI assistant combining vision, voice and LLMs to deliver personaliz
 
 ### 🎯 Intervue — AI-Powered Interview Platform
 
-> **GitHub →** [Repository](YOUR_INTERVUE_REPO_LINK)
+> **Live →** [https://intervue-frontend-tgi7.onrender.com/](https://intervue-frontend-tgi7.onrender.com/)
 
 An AI-powered interview platform built to simulate technical interviews and provide actionable candidate feedback.
 
