@@ -32,46 +32,44 @@
 
 ## ⚡ `> who am i`
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-Hey, I’m Diya — an AI & ML engineer-in-the-making who doesn’t just study tech, but actively builds with it.
+Hey, I’m **Diya** — an **AI & ML engineer-in-the-making** who likes turning *“what if?”* into something people can actually use.
 
-I enjoy turning ideas into real, usable products — especially in the space of LLMs, automation, and full-stack AI apps — where engineering meets real-world impact.
+I build at the intersection of **GenAI × Full-Stack × Problem Solving** — from LLM-powered products and voice agents to ML systems and developer tools.
 
-### 🤖 What I’m building
-- LLM-powered applications (voice agents, NLP systems, multimodal tools)
-- AI-driven full-stack products using React, FastAPI, Node.js, MongoDB
-- Experiments with automation, agents, and intelligent workflows
+### 🚀 What I Do
+- 🤖 Build **GenAI & LLM applications** — agents, RAG, voice AI & multimodal systems
+- 🧩 Engineer **end-to-end products** with React, FastAPI, Node.js & databases
+- 🧠 Solve **DSA & competitive programming** problems with a focus on patterns and optimization
+- ⚙️ Turn ideas into **deployed, usable products** — not just notebooks and demos
 
-### 🧠 Problem Solving & Growth
-- Solved 1300+ DSA problems across LeetCode, CodeChef & Codolio
-- Strong focus on patterns, optimization, and real interview-level thinking
+### 🏆 What Sets Me Apart
+- **1760+ DSA problems** solved across LeetCode, CodeChef & Codolio
+- Building across **AI, ML, GenAI, automation & full-stack engineering**
+- Hackathons, internships, research, and projects — **learning by shipping**
 
-### 🎤 Beyond Code
-- Student Ambassador at AdyaAI, KIT
-- Passionate about product thinking, UI/UX, and building clean user experiences
-- Enjoys turning ideas into polished, usable products
+### ⚡ The Goal
 
-### ⚡ Mindset
-- I don’t just write code — I build, break, improve, and ship.
-- Every project is a step toward one goal:
-creating AI systems that feel effortless, useful, and human.
+> **Don’t just use AI. Build the systems behind it.**
+
+Currently working toward becoming a **production-ready AI / GenAI engineer** capable of taking an idea from **problem → architecture → code → deployment → impact.**
+
 <br clear="right"/>
 
 ---
 
-## 🧠 `> cat learning_dashboard.md`
+## 🧠 `> current_focus.md`
 
 <div align="center">
 
-| Topic | Progress | Status |
-|-------|----------|--------|
-| LLM Integration & Prompt Engineering | `████████░░` 80% | 🔥 Active |
-| Python & AI APIs | `████████░░` 80% | 🔥 Active |
-| Java OOPs | `███████░░░` 70% | ⚡ Growing |
-| DSA (Arrays, Strings, Recursion) | `██████░░░░` 60% | ⚡ Growing |
-| Competitive Programming | `█████░░░░░` 50% | 🔄 Ongoing |
-| SQL + Databases | `████░░░░░░` 40% | 📌 Next |
+| Focus Area | What I'm Working On |
+|------------|---------------------|
+| 🤖 **GenAI & LLMs** | Agents · RAG · Prompt Engineering · LLM APIs |
+| 🧩 **AI Engineering** | Multimodal AI · Voice AI · Intelligent Workflows |
+| 💻 **Full-Stack** | React · FastAPI · Node.js · Databases |
+| 🧠 **Problem Solving** | 1300+ DSA Problems · Optimization · CP |
+| ⚙️ **Engineering** | APIs · Deployment · Git · System Building |
 
 </div>
 
@@ -85,38 +83,83 @@ creating AI systems that feel effortless, useful, and human.
 
 > **Live →** [vaidyaai-frontend.onrender.com](https://vaidyaai-frontend.onrender.com/)
 
-A voice-first AI healthcare assistant for symptom analysis and medical triage.
+A voice-first AI healthcare assistant for multilingual symptom analysis and medical triage.
 
-* 🌍 Supports **12+ languages** with speech-based input
-* 🚨 AI-driven severity detection, hospital suggestions & doctor-ready summaries
-* 🧠 LLM-powered reasoning and structured response generation
-* 🛠 `React` `FastAPI` `Python` `NLP` `Speech APIs`
-
----
-
-### 💼 ReLaunchAI — Career Restart Platform for Women
-
-> **Live →** [relaunchai.streamlit.app](https://relaunchai.streamlit.app/)
-
-An AI-powered career restart platform designed to help women return to the workforce after career breaks.
-
-* 📊 Skill-gap analysis, resume generation & interview coaching
-* 🗓 Personalized **30-day career roadmaps** and returnship discovery
-* 🧠 LLM-based personalized career guidance
-* 🛠 `Python` `FastAPI` `Streamlit` `NLP` `AI APIs`
+* 🌍 Supports **12+ languages** with speech-based interaction
+* 🎤 Voice → AI reasoning → structured response → voice pipeline
+* 🚨 Severity detection, hospital suggestions & doctor-ready summaries
+* 🧠 LLM-powered reasoning with intelligent fallback infrastructure
+* 🛠 `React` `FastAPI` `Python` `LLMs` `Speech AI` `TTS`
 
 ---
 
-### 🌾 AgroBuddy — AI Farming Assistant
+### 🌾 AgroBuddy — Multimodal AI Farming Assistant
 
 > **GitHub →** [Repository](https://github.com/diyavinod1/AgroBuddy)
 
-An AI-powered agricultural assistant providing personalized crop diagnosis and farming guidance.
+A multimodal AI assistant combining vision, voice and LLMs to deliver personalized farming guidance.
 
-* 🌱 Supports **image, voice & text** interactions in multiple Indian languages
-* 🔍 AI-powered crop disease and issue diagnosis using vision models
-* 🧠 LLM-based guidance with memory-enabled conversations
-* 🛠 `Python` `FastAPI` `OpenRouter LLMs` `Supabase` `OpenCV` `Telegram Bot API`
+* 📸 AI-powered crop disease and issue diagnosis using vision models
+* 🎤 Supports **image, voice & text** interactions
+* 🌐 Multilingual support for Indian-language interactions
+* 🧠 Memory-enabled conversations for personalized guidance
+* 🤖 Telegram-based AI assistant for real-world accessibility
+* 🛠 `Python` `FastAPI` `OpenRouter` `OpenCV` `Supabase` `LLMs`
+
+---
+
+### 🎯 Intervue — AI-Powered Interview Platform
+
+> **GitHub →** [Repository](YOUR_INTERVUE_REPO_LINK)
+
+An AI-powered interview platform built to simulate technical interviews and provide actionable candidate feedback.
+
+* 🎤 AI-driven interview experience with dynamic questioning
+* 🧠 AI-powered response analysis and evaluation
+* 📊 Structured feedback highlighting strengths and improvement areas
+* ⚙️ End-to-end AI workflow integrated into a full-stack product
+* 🛠 `React` `FastAPI` `Python` `LLMs` `AI APIs`
+
+---
+
+### 💼 ReLaunchAI — AI Career Restart Platform
+
+> **Live →** [relaunchai.streamlit.app](https://relaunchai.streamlit.app/)
+
+An AI-powered career platform designed to help professionals navigate career re-entry.
+
+* 📊 AI-driven skill-gap analysis and resume generation
+* 🎯 Personalized interview coaching & **30-day career roadmaps**
+* 🔎 Returnship discovery based on user profiles
+* 🧠 LLM-powered career guidance
+* 🛠 `Python` `FastAPI` `Streamlit` `NLP` `LLMs`
+
+---
+
+### 🎯 JobFit AI — AI Resume & Job Matching Extension
+
+> **Chrome Web Store →** [Extension](https://chromewebstore.google.com/detail/dkodefdamagkhfpdgacgiajbiomncjfl?utm_source=item-share-cb)
+
+An AI-powered Chrome extension that analyzes job postings against a candidate's resume.
+
+* 📊 Generates **AI-powered job match scores**
+* 🔍 Identifies missing skills and job-specific gaps
+* ✍️ Generates recruiter-ready application pitches
+* 🌐 Works directly inside job-search workflows
+* 🛠 `JavaScript` `Chrome Extensions` `Manifest V3` `AI APIs`
+
+---
+
+### 🏠 RentWise — ML Rent Prediction & Fairness Analyzer
+
+> **GitHub →** [Repository](https://github.com/diyavinod1/RentWise---AI-Rent-Fairness-Analyzer)
+
+A full-stack ML application for predicting rental prices and analyzing rental fairness.
+
+* 🤖 **XGBoost** regression for rent prediction
+* 📊 Interactive prediction and visualization interface
+* ⚡ ML inference served through a **FastAPI backend**
+* 🛠 `React` `FastAPI` `Python` `XGBoost`
 
 ---
 
@@ -124,38 +167,12 @@ An AI-powered agricultural assistant providing personalized crop diagnosis and f
 
 > **GitHub →** [Repository](https://github.com/diyavinod1/Online-Meal-Planner-and-Nutrition-Tracker)
 
-A full-stack nutrition platform for meal planning, food logging and personalized dietary recommendations.
+A full-stack nutrition platform for meal planning, food logging and personalized recommendations.
 
-* 🍽️ Food logging with goal-based meal recommendations
-* 📊 REST APIs with MongoDB-based nutrition analytics
-* 🔐 Full-stack authentication and user management
+* 🍽️ Goal-based meal planning and food logging
+* 📊 REST APIs with MongoDB-backed nutrition data
+* 🔐 Authentication and user management
 * 🛠 `React` `Node.js` `Express` `MongoDB`
-
----
-
-### 🏠 RentWise — ML-Based Rent Prediction System
-
-> **GitHub →** [Repository](https://github.com/diyavinod1/RentWise---AI-Rent-Fairness-Analyzer)
-
-A full-stack machine learning application for predicting house rental prices.
-
-* 🤖 XGBoost regression model for rent prediction
-* 📈 Interactive frontend for prediction and visualization
-* ⚡ ML model deployed through a FastAPI backend
-* 🛠 `React` `FastAPI` `Python` `XGBoost`
-
----
-
-### 🎯 JobFit AI — AI Resume Analyzer
-
-> **Chrome Web Store →** [Extension](https://chromewebstore.google.com/detail/dkodefdamagkhfpdgacgiajbiomncjfl?utm_source=item-share-cb)
-
-An AI-powered Chrome extension that analyzes resumes against job descriptions to improve job application success.
-
-* 📊 Generates **ATS match scores** and identifies missing skills
-* 🧠 Compares resumes with job requirements using AI
-* ✍️ Generates recruiter-ready pitch messages
-* 🛠 `JavaScript` `Chrome Extensions` `Manifest V3` `AI APIs`
 
 ---
 
@@ -163,33 +180,51 @@ An AI-powered Chrome extension that analyzes resumes against job descriptions to
 
 <div align="center">
 
-### 🤖 AI / Machine Learning
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00f5ff)
-![NLP](https://img.shields.io/badge/NLP-7b2ff7?style=for-the-badge&logo=openai&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=bf9eff)
+![Java](https://img.shields.io/badge/Java-7b2ff7?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00f5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-bf9eff?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-7b2ff7?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI / GenAI
+![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00f5ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-7b2ff7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=00f5ff)
+![LangChain](https://img.shields.io/badge/LangChain-7b2ff7?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0d0d0d?style=for-the-badge&logoColor=00f5ff)
+![NLP](https://img.shields.io/badge/NLP-bf9eff?style=for-the-badge&logo=openai&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-7b2ff7?style=for-the-badge&logo=opencv&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d0d0d?style=for-the-badge&logo=python&logoColor=00f5ff)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-bf9eff?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-bf9eff?style=for-the-badge&logo=scikitlearn&logoColor=black)
 
 ### 🌐 Full-Stack Development
 ![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00f5ff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-7b2ff7?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=00f5ff)
 ![Express](https://img.shields.io/badge/Express-bf9eff?style=for-the-badge&logo=express&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-7b2ff7?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00f5ff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=bf9eff)
 ![Streamlit](https://img.shields.io/badge/Streamlit-7b2ff7?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### ⚙️ Languages & Tools
-![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00f5ff)
-![Java](https://img.shields.io/badge/Java-7b2ff7?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00f5ff)
-![Git](https://img.shields.io/badge/Git-bf9eff?style=for-the-badge&logo=git&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-7b2ff7?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f5ff)
+### 🗄️ Databases & Backend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00f5ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-7b2ff7?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-bf9eff?style=for-the-badge&logo=mysql&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=00f5ff)
+![Redis](https://img.shields.io/badge/Redis-7b2ff7?style=for-the-badge&logo=redis&logoColor=white)
+
+### ⚙️ Tools & Engineering
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00f5ff)
+![Docker](https://img.shields.io/badge/Docker-7b2ff7?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-bf9eff?style=for-the-badge&logo=postman&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=00f5ff)
 ![Chrome MV3](https://img.shields.io/badge/Chrome_MV3-7b2ff7?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=00f5ff)
+
+### ☁️ Deployment
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00f5ff)
+![Render](https://img.shields.io/badge/Render-7b2ff7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-bf9eff?style=for-the-badge&logo=netlify&logoColor=black)
 
 </div>
 
@@ -207,18 +242,30 @@ An AI-powered Chrome extension that analyzes resumes against job descriptions to
 │  📊  1720+ DSA Problems — LeetCode + CodeChef + Codolio          │
 │  🍴  CodeChef: 3★ · Division 2 · Peak Rating 1678                │
 │  ⚡  LeetCode: Rating 1901 · Weekly Contest Regular               │
+|                                                                  |
+│  🚀 HACKATHONS & BUILDING                                        │
+│  ──────────────────────────────────────────────────────────────  │
+│  ⚡  East India BLOCKCHAIN Summit 2.0 — Finalist · IIT Kharagpur  │
+│  🏆  Sprintathon 2026 — Finalist · Team Leader · HireWise AI     │
+│  🎯  Buildathon 2026 — Team Leader · 2 Rounds                    │
+|  🩺  TNIMPACT 2026 — Solo Builder · Vaidya AI                    |
 │                                                                  │
 │  🎖️  CERTIFICATIONS                                              │
 │  ──────────────────────────────────────────────────────────────  │
-│  🐍  Get Started with Python — Google (Coursera)                 │
-│  🌐  Python Essentials 1 & 2 — Cisco NetAcad                     │
-│  🧠  Fundamentals of Deep Learning — NVIDIA                      │
-│  🤖  Deep Learning & Reinforcement Learning — IBM                │
-│  📐  Problem Solving via C Programming — NPTEL                   │
-│  🗂️  DSA Basics — Simplilearn                                    │
-│  🤝  5-Day AI Agents Intensive — Google / Kaggle                 │
-│  ☁️  AWS Cloud Quest: Cloud Practitioner                         │
+|  🤖  5-Day AI Agents Intensive — Google × Kaggle                 |
+|  🧠  Fundamentals of Deep Learning — NVIDIA                      |
+|  🔗  Deep Learning & Reinforcement Learning — IBM                |
+|  ☁️  AWS Cloud Quest — Cloud Practitioner                        |
+|  💻  Algorithmic Graph Theory & Data Structures — NPTEL          |
+|  🗄️  Database Management System — NPTEL                          |
+|  🐍  Get Started with Python — Google                            |
+|  🌐  Python Essentials 1 & 2 — Cisco                             │
 │                                                                  │
+|  🎓 ACADEMICS                                                    |
+│  ──────────────────────────────────────────────────────────────  │
+|  🥈  Department Rank 2 — CSE (AI & ML)                           |
+|  📈  9.17 CGPA — First Year                                      |
+|                                                                  |
 │  🌟  COMMUNITY                                                   │
 │  ──────────────────────────────────────────────────────────────  │
 │  🎤  Student Ambassador — AdyaAI, KIT                            │
